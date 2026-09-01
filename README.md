@@ -5,5 +5,7 @@ It focuses on the main problems you are likely to run into: preparing the disk, 
 It also provides a basic headstart on what to do after first booting into Windows or Linux, including useful configuration and everyday setup.
 
 ** This was made with the help of AI, and it was created mainly to help a friend out **
+
 ** Don't treat this as a complete guide at all. Always double check commands and things you're doing **
+
 ** Feel free to add or edit to this repo **
